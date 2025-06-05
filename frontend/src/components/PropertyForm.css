@@ -1,0 +1,21 @@
+.property-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 300px;
+}
+
+.property-form input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.property-form button {
+  padding: 0.5rem;
+  background-color: #2b7a78;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
