@@ -29,7 +29,7 @@ Abre el navegador en la URL mostrada en la terminal para ver la aplicación.
 
 ## Estructura del proyecto
 
-- `src/components`: componentes reutilizables como `PropertyCard`, `PropertyList`, `PropertyForm` y `Layout`.
+- `src/components`: componentes reutilizables (`PropertyCard`, `PropertyList`, `PropertyForm` y `Layout`).
 - `src/App.jsx`: punto de entrada que usa `Layout`.
 
 ## Construcción para producción
