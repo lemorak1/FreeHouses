@@ -13,6 +13,11 @@ Este repositorio contiene una aplicación React creada con Vite.
    npm install
    ```
 
+Se recomienda utilizar **Node.js 20** o superior. Puedes verificar tu versión con:
+```bash
+node --version
+```
+
 ## Desarrollo
 
 Para iniciar el servidor de desarrollo:

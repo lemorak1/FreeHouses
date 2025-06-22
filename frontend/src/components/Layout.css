@@ -11,17 +11,10 @@ header {
   margin-bottom: 1rem;
 }
 
-header h1 {
-  margin: 0;
-}
-
-header button {
-  padding: 0.5rem 1rem;
-  background-color: #17252a;
-  color: #fff;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
+nav a {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: #2b7a78;
 }
 
 main {

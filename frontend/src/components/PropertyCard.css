@@ -1,10 +1,11 @@
 .property-card {
+  display: block;
   border: 1px solid #ccc;
   border-radius: 4px;
   overflow: hidden;
-  display: flex;
-  flex-direction: column;
   background-color: #fff;
+  text-decoration: none;
+  color: inherit;
 }
 
 .property-image {
