@@ -2,6 +2,18 @@
 
 Este repositorio contiene una aplicación React creada con Vite.
 
+## Versión recomendada de Node.js
+
+Esta aplicación se desarrolló con **Node.js 18**. Se recomienda utilizar la
+versión 18 o superior.
+
+Puedes descargar Node desde [nodejs.org](https://nodejs.org/) o instalarlo con
+[nvm](https://github.com/nvm-sh/nvm):
+
+```bash
+nvm install 18
+```
+
 ## Instalación
 
 1. Navegar a la carpeta `frontend`:
